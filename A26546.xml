@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ages of sin, or, Sinnes birth &amp; groweth with the stepps and degrees of sin, from thought to finall impenitencie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26546</idno>
+            <idno type="STC">Wing A761</idno>
+            <idno type="STC">ESTC R283</idno>
+            <idno type="EEBO-CITATION">07712830</idno>
+            <idno type="OCLC">ocm 07712830</idno>
+            <idno type="VID">40104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 162:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ages of sin, or, Sinnes birth &amp; groweth with the stepps and degrees of sin, from thought to finall impenitencie.</title>
+               </titleStmt>
+               <extent>9 leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Thomas Jenner,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved throughout.</note>
+                  <note>Place and date of publication from NUC pre-1956.</note>
+                  <note>Reproduction of original in the Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="emblem_book">
+            <pb facs="tcp:40104:1"/>
+            <pb facs="tcp:40104:1"/>
+            <head>
+               <hi>THE Ages of Sin,</hi> or Sinnes Birth &amp; groweth. With the Stepps, and Degrees of Sin, from thought to finall Impenitencie.</head>
+            <div n="1" type="stage_of_sin">
+               <head>
+                  <figure>
+                     <figDesc>emblem of Suggestion</figDesc>
+                  </figure>
+               </head>
+               <head>1 Suggestion.</head>
+               <l>Originall—<hi>Concupiſcence</hi> Doth make</l>
+               <l>Our Nature like a foule great—Bellyed <hi>Snake:</hi>
+               </l>
+               <l>For, wer not <hi>Sathan</hi> apt to tempt to Sin;</l>
+               <l>Yett, Lustfull—<hi>Thoughts</hi> would breed &amp; brood, Within:</l>
+               <l>But, happie. Hee, that takes <hi>Theſe</hi> Little-<hi>Ones,</hi>
+               </l>
+               <l>To Daſh their <hi>Braines</hi> (Soone) 'gainſt repentant—<hi>Stones.</hi>
+               </l>
+            </div>
+            <div n="2" type="stage_of_sin">
+               <pb facs="tcp:40104:2"/>
+               <pb facs="tcp:40104:2"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Rumination</figDesc>
+                  </figure>
+               </head>
+               <head> 2. Rumination.</head>
+               <l>When lust hath (thus) Conceiu'd It brings forth Sin,</l>
+               <l>And Ruminating-thoughts Its Shape begin.</l>
+               <l>Like as the Beares oft-licking of her whelps,</l>
+               <l>That foule deformed Creatures Shape much helps.</l>
+               <l>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> danger's great, our Sinfull thoughts to Cheriſh,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> stop thire growth, or thy poore Soule will periſh.</l>
+            </div>
+            <div n="3" type="stage_of_sin">
+               <pb facs="tcp:40104:3"/>
+               <pb facs="tcp:40104:3"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Delectation</figDesc>
+                  </figure>
+               </head>
+               <head>DELECTATION. 3</head>
+               <l>Jf, Sinfull Thoughts (once) nestle in mans heart—,</l>
+               <l>The Sluce is ope, Delight (then) playes its part:</l>
+               <l>Then, like the old-Ape hugging in his armes,</l>
+               <l>His Apiſh-young-Ones; Sin, the Soule be charmes:</l>
+               <l>And, when our Apiſh impious-Thoughts delight us,</l>
+               <l>Oh, then, (alas) moſt mortally They bite us.</l>
+            </div>
+            <div n="4" type="stage_of_sin">
+               <pb facs="tcp:40104:4"/>
+               <pb facs="tcp:40104:4"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Consent</figDesc>
+                  </figure>
+               </head>
+               <head>CONSENT. 4</head>
+               <l>For, where Sin workes Content, Conſent will follow;</l>
+               <l>And, This, the Soule, into Sins Gulfe, doth ſwollow.</l>
+               <l>For, as two rav'ning Wolves (for, tis theire kinde)</l>
+               <l>To ſuck Lambs-blood, doe hunt with Equall-minde:</l>
+               <l>Even ſo, the Soule &amp; Sin Conſent, in One,</l>
+               <l>Till, Soule &amp; Body be quite overthrowne.</l>
+            </div>
+            <div n="5" type="stage_of_sin">
+               <pb facs="tcp:40104:5"/>
+               <pb facs="tcp:40104:5"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Act</figDesc>
+                  </figure>
+               </head>
+               <head>5 Act.</head>
+               <l>
+                  <hi>Sin</hi> and the <hi>Soule</hi> (thus) having ſtricken Hands,</l>
+               <l>The Sinner (now) for <hi>Action</hi> ready ſtands;</l>
+               <l>And <hi>Tyger</hi>-like ſwallowes-up, at One-bitt,</l>
+               <l>What euer impious Prey his Heart doth fitt:</l>
+               <l>Committing <hi>Sin,</hi> with eager greedyneſs,</l>
+               <l>Selling his <hi>Soule</hi> to worke All wickedneſs.</l>
+            </div>
+            <div n="6" type="stage_of_sin">
+               <pb facs="tcp:40104:6"/>
+               <pb facs="tcp:40104:6"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Iteration</figDesc>
+                  </figure>
+               </head>
+               <head>Iteration. 6</head>
+               <l>From eager—Acting Sin, comes Iteration,</l>
+               <l>Or, frequent Custome of Sins perpetration;</l>
+               <l>Which, like great Fleſh-Flies liting on raw-Fleſh,</l>
+               <l>Though oft beat-off, (if not kild) come afreſh:</l>
+               <l>Hence, <hi>Be'lzebub</hi> is term'd Prince of ffleſh-fflies,</l>
+               <l>'Cauſe Sin, still, Acts, vntill (by Grace) It Dies.</l>
+            </div>
+            <div n="7" type="stage_of_sin">
+               <pb facs="tcp:40104:7"/>
+               <pb facs="tcp:40104:7"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Gloriation</figDesc>
+                  </figure>
+               </head>
+               <head>GLORIATION. 7</head>
+               <l>Cuſtome in Sin takes Senſe of Sin away,</l>
+               <l>This makes All-Sin ſeeme but a Sport, a play:</l>
+               <l>Yea, like a rampant-Lyon, proud and Stout,</l>
+               <l>Jnſulting<g ref="char:punc">▪</g> o're his Prey, ſtaulking about,</l>
+               <l>The Saucy-Sinner boaſts &amp; braggs of Sinne.</l>
+               <l>As One (oh woe) that doth a Citty winne.</l>
+            </div>
+            <div n="8" type="stage_of_sin">
+               <pb facs="tcp:40104:8"/>
+               <pb facs="tcp:40104:8"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Obduration</figDesc>
+                  </figure>
+               </head>
+               <head>8 Obduration.</head>
+               <l>When Sinne brings <hi>Sinners</hi> to this fearefull paſs,</l>
+               <l>What followes, but a hard <hi>Heart—<g ref="char:punc">▪</g> Brow</hi> of braſs<g ref="char:punc">▪</g>
+               </l>
+               <l>A <hi>Heart</hi> (I ſay) more hard then <hi>Torteſs</hi>-back;</l>
+               <l>Which, nether <hi>Sworde</hi> nor <hi>Axe</hi> can hew or hack;</l>
+               <l>
+                  <hi>Iudgements</hi> nor <hi>Mercies,</hi> Treats nor threats can cauſe</l>
+               <l>To leave-off <hi>Sin.</hi> To love or feare <hi>Gods</hi> Lawes.</l>
+            </div>
+            <div n="9" type="stage_of_sin">
+               <pb facs="tcp:40104:9"/>
+               <pb facs="tcp:40104:9"/>
+               <head>
+                  <figure>
+                     <figDesc>emblem of Impenitency</figDesc>
+                  </figure>
+               </head>
+               <head>9 FINALL-IMPENITENCY.</head>
+               <l>And (now, alas) what is Sins laſt Extent?</l>
+               <l>A hard-Heart makes a Heart Jmpenitent.</l>
+               <l>For, can a Leopard change his Spotted Skin?</l>
+               <l>No, Nor a Heart accuſtom'd (thus), his Sin</l>
+               <l>Then, Conſcience, headlong, caſts Jmpenitence,</l>
+               <l>With horrid ffrights of Helliſh Recompence.</l>
+               <byline>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. v. L. fecit<g ref="char:punc">▪</g>
+               </byline>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
